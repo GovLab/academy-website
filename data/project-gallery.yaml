@@ -410,14 +410,15 @@
   description:  "NYC: Prepared is a coalition of technologists and local leaders working together to co-create free/libre/open disaster relief and community resilience information management solutions for New York City."
   impact: >
     We offer tools and training to approximately 300 organizations in the NYC area that responded to Superstorm Sandy.
-    <p>Tools include:</p>
+    <br>
+    Tools include:
     <ul class="project-list">
     <li>Resource management system to share contacts, request and logistics management tools.</li>
     <li>Open data portal containing over 100 datasets crucial to improving community resilience.</li>
     <li>Website builder that offers organizations free sites.</li>
     </ul>
-    <ul>
-    <p>Trainings include:</p>
+    Trainings include:
+    <ul class="project-list">
     <li>Data Basics teach people important concepts and concrete techniques.</li>
     <li><strong>Google Apps</strong> shows people how to use popular collaboration tools.</li>
     <li><strong>WordPress Basics</strong> trains people to build and manage their own, independent websites.</li>
