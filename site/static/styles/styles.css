@@ -634,6 +634,9 @@ p,
     margin: 0 0 10px; }
   .b-footer img {
     max-width: 80%; }
+  .b-footer #nyu-tandon-logo {
+    max-height: 50px;
+    margin-top: 15px; }
   .b-footer .e-creative-commons {
     font-size: .8rem;
     line-height: 1rem;
