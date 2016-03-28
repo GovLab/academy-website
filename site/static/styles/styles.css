@@ -251,6 +251,13 @@ p,
   .b-list a:visited {
     color: #008895; }
 
+.project-list li {
+  list-style-type: disc;
+  font-size: 100%;
+  line-height: 150%;
+  margin: 0 1.5em;
+  font-weight: 400; }
+
 .m-project-coaching {
   background-color: #008895;
   border-top-color: #008895;
