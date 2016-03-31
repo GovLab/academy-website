@@ -3,7 +3,6 @@
 
 - name: "Bringing Tech Innovation to Procurement and the Government Supply Chain"
   duration: 5 weeks
-  apply: 
   date:
     start: "May 4, 2016"
     week_start: "May 2, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -518,8 +517,6 @@
   is_active: false
   partner: 
   duration: 8 weeks
-  apply: 
-    - http://www.oas.org/es/sap/dgpe/OpenGovFellowship/
   date:
     start: "March 27, 2015"      # Date in single format.
     week_start: "March 23 - 27, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -639,6 +636,7 @@
   partner: 
   duration: 24 weeks
   apply:
+    - http://www.oas.org/es/sap/dgpe/OpenGovFellowship/
   date:
     start: "May 7, 2016"      # Date in single format.
     week_start: "May, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
