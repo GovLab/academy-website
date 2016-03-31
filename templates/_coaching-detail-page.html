@@ -70,7 +70,13 @@
   <section class="b-apply">
     <div class="row ">
       <div class="column large-12">
-        <a href="./application.html" target="_blank" class="e-button m-large">Apply</a>
+        {% if coaching_class.apply %}
+          {% for item in coaching_class.apply %}
+              <a href="{{item}}" target="_blank" class="e-button m-large">Apply</a>
+          {% endfor %}
+        {% else %}
+          <a href="./application.html" target="_blank" class="e-button m-large">Apply</a>
+        {% endif %}      
       </div>
     </div>
   </section>

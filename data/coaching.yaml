@@ -3,6 +3,7 @@
 
 - name: "Bringing Tech Innovation to Procurement and the Government Supply Chain"
   duration: 5 weeks
+  apply: 
   date:
     start: "May 4, 2016"
     week_start: "May 2, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
