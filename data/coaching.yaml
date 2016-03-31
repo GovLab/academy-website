@@ -1,5 +1,46 @@
 ---
 # Courses
+
+- name: "Bringing Tech Innovation to Procurement and the Government Supply Chain"
+  duration: 5 weeks
+  date:
+    start: "May 4, 2016"
+    week_start: "May 2, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
+    end: "June 1, 2016"
+    application: "April 22, 2016"
+  passion:
+    title: "Passionate about fixing the public procurement process?" 
+    bullets:
+      - Are you working to make procurement more transparent? Efficient? Accountable?
+      - Do you have a project that aims to use technology and process changes to increase competition, enhance business development opportunities, and/or lower costs?
+      - Do you want to learn from peers and experts about what’s happening in the space of procurement innovation, civic and govtech innovation?
+  description_short: >
+    <p>Bringing innovation to the government supply chain is about promising and delivering on greater productivity and improved workflows.</p>
+  description_long: >
+    <p>The way government purchases, especially information technology, is profoundly broken. Government should not be spending as much to make a website as it invests in scientific research to map the human brain. Contracts should not get awarded to the same enterprise over and over again but attract more and more diverse competitors.</p> 
+    <p>But bringing innovation to the government supply chain is also about promising and delivering on greater productivity and improved workflows. This can also be about automated processes, data-informed decision support, tools to enable a mobile equipped workforce, and the sharing of facilities and equipment.</p>
+    <p>Ideal participants are those who have already identified a project and/or have a project underway and have clear insight into the problem they are trying to address. This course is designed for those focusing on all stages and types of contracting reform, bureaucracy and regulatory navigation at all levels of government, including projects that: simplify the RFP process; attract more minority and women-owned businesses; enable more open review and decision-making processes; encourage the procurement of innovative not only cheap solutions; decrease corruption and improve accountability, publish open contracting data or make sense of it. If you are engaged in an effort to bring greater sanity to the procurement process -- especially technology procurement - come join us!</p>
+    <p>The GovLab Academy coaching programs have helped 450 government, social and civic entrepreneurs take 250 projects from idea to implementation.  We aim to help you “cross the chasm” from idea to implementation and help you scale.</p>
+  more_info:
+    - <strong>Fee:</strong> $250
+  faculty_members: # Add list with faculty member names
+    - Clay Johnson
+  actions:
+    - label: More Info
+      link: bringing-tech-innovation-to-procurement-and-the-government-supply-chain-detail.html
+  certificates:
+    blended: false
+    online: true
+    in_person: false
+    for_credit: false
+    for_certificate: true
+  is_active: true
+  when: "every week for 5 weeks."
+  when_plus: ""
+  format: "1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one team coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
+
 - name: "Civic Tech for Local Legislatures and Legislators"
   duration: 8 weeks
   date:
@@ -29,9 +70,11 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: "every other Monday from 5 - 7pm EST"
+  when: "every other Monday from 5 - 7pm EST."
   when_plus: "If the day or time present a challenge for the admitted applicants, we are open to offering the program on Sundays"
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Open Source Technology Practices For Civic Engagement Projects"
   duration: 8 weeks
@@ -65,9 +108,11 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: Every other Wednesday, starting April 14, from 1 -3pm EST
+  when: Every other Wednesday, starting April 14, from 1 -3pm EST.
   when_plus: 
   format: 1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions.
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Freedom of Information: Project Coaching"
   duration: 4 weeks
@@ -125,9 +170,11 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: "every Wednesday from 10am - 12pm EST"
+  when: "every Wednesday from 10am - 12pm EST."
   when_plus: "If required, online sessions could also occur Tuesday afternoons or Thursdays before 11am EST or after 3pm EST"
   format: 1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions.
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Humanitarian Innovation Project Collaborative"
   duration: 8 weeks
@@ -162,6 +209,8 @@
   when: 
   when_plus: 
   format: 1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions.
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Lab Design: Bringing Agility and Empiricism to Public Problems"
   duration: 8 weeks
@@ -198,6 +247,8 @@
   when_plus: 
   format: 1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions
 
+# ==========================================================================================================================================================================================================================================#
+
 - name: "Citizen Engagement Projects"
   duration: 4 weeks
   date:
@@ -229,9 +280,11 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: "every Friday from 11am - 1pm EST"
+  when: "every Friday from 11am - 1pm EST."
   when_plus: 
   format: 1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions.
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Citizen Science on the Web"
   duration: 8 weeks
@@ -267,6 +320,8 @@
   when_plus: 
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions. Optional: one student per team may participate in person in a data dive in Geneva during the week of 14-21 March (spring break at NYU), together with students from CUSP."
 
+# ==========================================================================================================================================================================================================================================#
+
 - name: "Tech Procurement Projects: Making the Supply Chain Work"
   duration: 4 weeks
   date:
@@ -298,6 +353,8 @@
   when: 
   when_plus: 
   format: 1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions.
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Leveraging Crowds in the Public Sector"
   duration: 4 weeks
@@ -332,6 +389,8 @@
   when: 
   when_plus: 
   format: "1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
   
 - name: "Open Data Projects"
   duration: 4 weeks
@@ -363,9 +422,11 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: "every Tuesday from 4 - 6pm EST"
+  when: "every Tuesday from 4 - 6pm EST."
   when_plus: 
   format: "1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
   
 - name: "Data Analytics for Change"
   duration: 8 weeks
@@ -398,6 +459,8 @@
   when: "TBD"
   when_plus: 
   format: "1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."  
+
+# ==========================================================================================================================================================================================================================================#
   
 - name: "Open Contracting Projects"
   is_active: false
@@ -436,6 +499,8 @@
   when_plus: 
   format: 
 
+# ==========================================================================================================================================================================================================================================#
+
 - name: "OAS Fellowship Program"
   is_active: false
   partner: 
@@ -469,6 +534,8 @@
   when: "TBD"
   when_plus: 
   format: "1 faculty-led session every month for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Data Collaboratives"
   is_active: false
@@ -509,6 +576,8 @@
   when_plus: 
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
 
+# ==========================================================================================================================================================================================================================================#
+
 - name: "Sensing Our Environment towards Improving Our Lives"
   is_active: false
   partner: 
@@ -545,6 +614,8 @@
   when: "TBD"
   when_plus: 
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
 
 - name: "OAS Fellowship Program 2016"
   is_active: false
@@ -585,7 +656,7 @@
   when_plus: 
   format: "1 faculty-led session every month for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
 
-###########################
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Innovations in Automatic Benefits for Citizens"
   duration: 10 weeks
@@ -624,7 +695,7 @@
   when_plus: "If the day or time present a challenge for the admitted applicants, we are open to offering the program on Sundays."
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
 
-###########################
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Innovations in Tech-Enabled Disaster Management"
   duration: 10 weeks
@@ -647,7 +718,7 @@
     <p>Ideal participants are those who have already identified a project and/or have a project underway and have clear insight into the problem they are trying to ameliorate. Projects might aim to tackle diverse issues from the protection of vulnerable populations, to strengthening health initiatives, to providing shelter, education, and livelihood opportunities. They will have in common the application of open, data-driven, bottom-up and collaborative approaches. A public interest and public engagement focus should ultimately be the driving force behind the projects.</p>
     <p>The GovLab Academy coaching programs have helped 450 government, social and civic entrepreneurs take 250 projects from idea to implementation. We aim to help you “cross the chasm” from idea to implementation and help you scale.</p>
   more_info:
-    - <strong>Fee:</strong> $250 US dollars per project. Each project can have a team of up to 5 participants.
+    - <strong>Fee:</strong> $250 per project. Each project can have a team of up to 5 participants.
     - The $250 fee helps to cover the stipend that we offer to coaches to compensate them for their time. We hope to offer financial aid scholarships to help international teams that would otherwise not be able to participate in the coaching program due to financial constraints. If your team would like to be considered for a scholarship (should your project be selected), please check the box in your application. More details will follow. 
   faculty_members: # Add list with faculty member names
     - Julian Carver
@@ -665,7 +736,7 @@
   when_plus: ""
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."  
 
-###########################
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Data Driven Criminal Justice Project Coaching Program"
   duration: 10 weeks
@@ -716,7 +787,7 @@
   when_plus: ""
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
 
-###########################
+# ==========================================================================================================================================================================================================================================#
 
 - name: "Tracking Global Sustainability with Open Data and Crowdsourcing"
   duration: 10 weeks
@@ -747,11 +818,11 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: "every other Thursday from 8 - 10am EST"
+  when: "every other Thursday from 8 - 10am EST."
   when_plus: ""
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
 
-###########################
+# ==========================================================================================================================================================================================================================================#
 
 # - name: ""
 #   is_active: false
