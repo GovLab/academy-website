@@ -44,6 +44,7 @@
 
 - name: "Civic Tech for Local Legislatures and Legislators"
   duration: 8 weeks
+  apply:
   date:
     start: "March 2, 2015"
     week_start: "March 2 - 6" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -79,6 +80,7 @@
 
 - name: "Open Source Technology Practices For Civic Engagement Projects"
   duration: 8 weeks
+  apply:
   date:
     start: "April 22, 2015"
     week_start: "April 20 - 24" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -117,6 +119,7 @@
 
 - name: "Freedom of Information: Project Coaching"
   duration: 4 weeks
+  apply:
   date:
     start: "March 25, 2015"
     week_start: "March 23 - 27" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -179,6 +182,7 @@
 
 - name: "Humanitarian Innovation Project Collaborative"
   duration: 8 weeks
+  apply:
   date:
     start: "April 6, 2015"
     week_start: "April 6 - 10" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -215,6 +219,7 @@
 
 - name: "Lab Design: Bringing Agility and Empiricism to Public Problems"
   duration: 8 weeks
+  apply:
   date:
     start: "April 6, 2015"
     week_start: "April 6 - 10" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -252,6 +257,7 @@
 
 - name: "Citizen Engagement Projects"
   duration: 4 weeks
+  apply:
   date:
     start: "May 6, 2015"
     week_start: "May 4 - 8" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -289,6 +295,7 @@
 
 - name: "Citizen Science on the Web"
   duration: 8 weeks
+  apply:
   date:
     start: "March 2, 2015"
     week_start: "March 2 - 6" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -325,6 +332,7 @@
 
 - name: "Tech Procurement Projects: Making the Supply Chain Work"
   duration: 4 weeks
+  apply:
   date:
     start: "March 16, 2015"
     week_start: "March 16 - 20" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -359,6 +367,7 @@
 
 - name: "Leveraging Crowds in the Public Sector"
   duration: 4 weeks
+  apply:
   date:
     start: "March 23, 2015"
     week_start: "March 23 - 27, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -395,6 +404,7 @@
   
 - name: "Open Data Projects"
   duration: 4 weeks
+  apply:
   date:
     start: "June 9, 2015 2015"
     week_start: "June 8 - 12, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -431,6 +441,7 @@
   
 - name: "Data Analytics for Change"
   duration: 8 weeks
+  apply:
   date:
     start: "April 14, 2015"
     week_start: "April 13 - 17, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -467,6 +478,7 @@
   is_active: false
   partner: 
   duration: 8 weeks
+  apply:
   date:
     start: "April 27, 2015"      # Date in single format.
     week_start: "April 27 - May 1, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -506,6 +518,8 @@
   is_active: false
   partner: 
   duration: 8 weeks
+  apply: 
+    - http://www.oas.org/es/sap/dgpe/OpenGovFellowship/
   date:
     start: "March 27, 2015"      # Date in single format.
     week_start: "March 23 - 27, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -542,6 +556,7 @@
   is_active: false
   partner: 
   duration: 8 weeks
+  apply:
   date:
     start: "September 9, 2015"      # Date in single format.
     week_start: "September 7 - 11, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -583,6 +598,7 @@
   is_active: false
   partner: 
   duration: 8 weeks
+  apply:
   date:
     start: "June 29, 2015"      # Date in single format.
     week_start: "June 29, 2015" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -622,6 +638,7 @@
   is_active: false
   partner: 
   duration: 24 weeks
+  apply:
   date:
     start: "May 7, 2016"      # Date in single format.
     week_start: "May, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -661,6 +678,7 @@
 
 - name: "Innovations in Automatic Benefits for Citizens"
   duration: 10 weeks
+  apply:
   date:
     start: "May 9, 2016"
     week_start: "May 9, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -700,6 +718,7 @@
 
 - name: "Innovations in Tech-Enabled Disaster Management"
   duration: 10 weeks
+  apply:
   date:
     start: "June 13, 2016"
     week_start: "June 13, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -741,6 +760,7 @@
 
 - name: "Data Driven Criminal Justice Project Coaching Program"
   duration: 10 weeks
+  apply:
   date:
     start: "June 6, 2016" 
     week_start: "June 6, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -792,6 +812,7 @@
 
 - name: "Tracking Global Sustainability with Open Data and Crowdsourcing"
   duration: 10 weeks
+  apply:
   date:
     start: "March 10, 2016"
     week_start: "March 7, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
@@ -829,6 +850,8 @@
 #   is_active: false
 #   partner: ""
 #   duration: ""
+#   apply:
+#     - 
 #   date:
 #     start: "December 31, 2015"      # Date in single format.
 #     week_start: "TBD"               # Date can be in two formats ie. "January 2015" or "By Request"
