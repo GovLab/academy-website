@@ -34,6 +34,9 @@
     in_person: false
     for_credit: false
     for_certificate: true
+  readings:
+    - label: Read our Selected Readings on Civic Innovation - Cities and Civic Technology
+      link: "http://thegovlab.org/civic-innovation-cities-and-civic-tech/"
   is_active: true
   when: "every week for 5 weeks."
   when_plus: ""
@@ -749,6 +752,9 @@
     in_person: false
     for_credit: false
     for_certificate: true
+  readings:
+    - label: Read our Selected Readings on Data and Humanitarian Response
+      link: "http://thegovlab.org/data-and-humanitarian-response"
   is_active: true
   when: ""
   when_plus: ""

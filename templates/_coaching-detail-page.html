@@ -107,6 +107,16 @@
         {% if coaching_class.when_plus %}<p><em>{{coaching_class.when_plus}}</em></p>{% endif %}
       {% endif %}
       <h4>Course Duration: {{coaching_class.duration}}</h4>
+
+      {% if coaching_class.readings %}
+      {% for button in coaching_class.readings %}
+      <br>
+      <h4><a href="{{button.link}}" target="_blank" class="e-button">{{button.label}}</a></h4>
+      {% endfor %}
+      {% endif %}
+
+
+
       </div>
     </div>
 
@@ -119,7 +129,7 @@
       <a href="./coaching-programs.html#faqs" class="e-button">FAQs</a>
 
       {% else %}
-        <h3>For more information</h3>
+        <h3>More information</h3>
         <a href="./coaching-programs.html#faqs" class="e-button">FAQs</a>
       {% endif %}
 		</div>
