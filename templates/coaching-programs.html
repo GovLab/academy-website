@@ -97,7 +97,7 @@
             {% if course.actions %}
               <div class="e-course-controls">
                 {% for button in course.actions %}
-                  <a class="e-button" href="{{button.link}}">{{button.label}}</a>
+                  <a class="e-button" href="{{course.name | slug + "-detail.html"}}">More Info</a>
                 {% endfor %}
               </div>
             {% endif %}
@@ -163,7 +163,7 @@
             {% if course.actions %}
               <div class="e-course-controls">
                 {% for button in course.actions %}
-                  <a class="e-button" href="{{button.link}}">{{button.label}}</a>
+                  <a class="e-button" href="{{course.name | slug + "-detail.html"}}">More Info</a>
                 {% endfor %}
               </div>
             {% endif %}
