@@ -38,7 +38,7 @@
     - label: Read our Selected Readings on Civic Innovation - Cities and Civic Technology
       link: "http://thegovlab.org/civic-innovation-cities-and-civic-tech/"
   is_active: true
-  when: "every week for 5 weeks."
+  when: "every week for 5 weeks. Please note that there will be no class scheduled the week of July 4 due to the American holiday."
   when_plus: ""
   format: "1 faculty-led session every week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one team coaching sessions."
 
