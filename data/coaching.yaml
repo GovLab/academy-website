@@ -681,10 +681,10 @@
   duration: 10 weeks
   apply:
   date:
-    start: "May 9, 2016"
-    week_start: "May 9, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
-    end: "July 11, 2016"
-    application: "April 22, 2016"
+    start: "August, 2016"
+    week_start: "August, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
+    end: "September, 2016"
+    application: "TBD"
   passion:
     title: "Passionate about Reducing Government Red Tape to Improve Lives?" 
     bullets:
@@ -762,7 +762,7 @@
 
 # ==========================================================================================================================================================================================================================================#
 
-- name: "Data Driven Criminal Justice Project Coaching Program"
+- name: "Coaching Program for Data Driven Criminal Justice Projects"
   duration: 10 weeks
   apply:
   date:
@@ -783,7 +783,7 @@
   description_short: >
       <p>This program is a first-of-its-kind online convening of those working on empirically-based criminal justice innovation projects, including those working in criminal justice, health, mental health and related agencies as well as researchers and advocates.</p>
   description_long: >
-      <p>The Data Driven Criminal Justice Coaching Program has support from the Laura and John Arnold Foundation and is run in partnership with the White House Office of Science and Technology Policy (and its efforts to accelerate more city, county and states willing to adopt voluntary, data-driven approaches to improve public health and safety, and reduce unnecessary incarceration). The program is a first-of-its-kind online convening of those working on empirically-based criminal justice innovation projects, including those working in criminal justice, health, mental health and related agencies as well as researchers and advocates, and who share a common desire to make greater use of data to understand past performance, improve day-to-day operations, and develop innovative approaches to the operations of the criminal justice system.</p>
+      <p>Coaching Program for Data Driven Criminal Justice Projects has support from the Laura and John Arnold Foundation and is run in partnership with the White House Office of Science and Technology Policy (and its efforts to accelerate more city, county and states willing to adopt voluntary, data-driven approaches to improve public health and safety, and reduce unnecessary incarceration). The program is a first-of-its-kind online convening of those working on empirically-based criminal justice innovation projects, including those working in criminal justice, health, mental health and related agencies as well as researchers and advocates, and who share a common desire to make greater use of data to understand past performance, improve day-to-day operations, and develop innovative approaches to the operations of the criminal justice system.</p>
       <p>Perhaps you want to combine arrest data with Medicaid hospitalization data to identify the super-utilizers of both systems? Or you are stuck trying to figure out the applicable legal and privacy protections inhibiting the creation of data exchanges? Maybe you want to identify which social service alternatives to incarceration are working, when and for whom, and which are not? Have you developed a new algorithm for determining pre-trial release?</p>
       <p>Every other week for ten weeks, participants will come together to learn both from one another and from experts in responsible data sharing practices. Participants also receive personalized project management coaching designed to help you overcome the specific barriers to implementation you are facing.</p>
       <p>This program is offered in response to what we are hearing from you about the demand for more help, expertise and capacity building to enable you to make better use of data both to understand past performance and to improve day-to-day operations of criminal justice in your communities.</p>
