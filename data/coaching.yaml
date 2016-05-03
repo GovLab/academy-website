@@ -681,10 +681,10 @@
   duration: 10 weeks
   apply:
   date:
-    start: "August, 2016"
-    week_start: "August, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
-    end: "September, 2016"
-    application: "TBD"
+    start: "September, 2016"
+    week_start: "September, 2016 (Date TBD)" # Date can be in two formats ie. "January 2015" or "By Request"
+    end: "November, 2016"
+    application: "August 15, 2016"
   passion:
     title: "Passionate about Reducing Government Red Tape to Improve Lives?" 
     bullets:
