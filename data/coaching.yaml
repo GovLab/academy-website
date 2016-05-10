@@ -536,6 +536,7 @@
     - ""
   faculty_members:
     - Beth Simone Noveck # Add list with faculty member names
+    - María Hermosilla
   actions:
     - label: More Info
       link: oas-fellowship-program-detail.html
