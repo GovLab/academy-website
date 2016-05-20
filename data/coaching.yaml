@@ -682,10 +682,10 @@
   duration: 10 weeks
   apply:
   date:
-    start: "September, 2016"
-    week_start: "September, 2016 (Date TBD)" # Date can be in two formats ie. "January 2015" or "By Request"
-    end: "November, 2016"
-    application: "August 15, 2016"
+    start: "August 15, 2016"
+    week_start: "August 15, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
+    end: "October 10, 2016"
+    application: "July 29, 2016"
   passion:
     title: "Passionate about Reducing Government Red Tape to Improve Lives?" 
     bullets:
@@ -712,8 +712,8 @@
     for_credit: false
     for_certificate: true
   is_active: true
-  when: "every other Monday from 5 - 7pm EST."
-  when_plus: "If the day or time present a challenge for the admitted applicants, we are open to offering the program on Sundays."
+  when: "Mondays, 8/15, 8/29, 9/12, 9/26, 10/10, from 5 - 7pm EST."
+  when_plus:
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
 
 # ==========================================================================================================================================================================================================================================#
