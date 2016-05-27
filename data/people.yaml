@@ -456,7 +456,7 @@
     last: Robbins
     first: Nina
     slug: nina-robbins
-  job: ""
+  job: "Project Manager at Citymart"
   description: >
     <p>Nina Robbins is a Project Manager at Citymart responsible for a portfolio of partnerships with leading global cities such as New York City and Eindhoven. At Citymart, she has successfully led challenge-based procurement and problem-solving projects for the cities of Long Beach, Philadelphia and New York City. Nina further managed the co-creation of Citymart’s Opportunity Builder online tool with a group of partner cities to establish common needs, taxonomies and use-cases.</p>
 
@@ -480,7 +480,7 @@
     last: Olagoke
     first: Uthman
     slug: uthman-olagoke
-  job: ""
+  job: "Project Manager at Citymart"
   description: >
     <p>Uthman is an experienced project manager at Citymart, working with cities to find solutions that will elevate the quality of life for citizens and bring innovation to the inner-workings of government.</p>
 
@@ -504,7 +504,7 @@
     last: Mullie
     first: Claus
     slug: claus-mullie
-  job: ""
+  job: "Analyst at Citymart"
   description: >
     <p>Claus Mullie joined Citymart in 2015, Claus contributed extensively to Citymart’s Procurement Institute, a large online resource designed to train city officials on innovative procurement. This included researching and compiling case study material.</p>
 
@@ -527,8 +527,8 @@
 - name:
     last: Haselmayer
     first: Sascha
-    slug: sascha-Haselmayer
-  job: ""
+    slug: sascha-haselmayer
+  job: "CEO of Citymart"
   description: >
     <p>In 2011 Sascha founded Citymart, working to transform the way cities solve problems, connecting them through open challenges to new ideas from citizens and entrepreneurs. Today, more than 60 global cities from Barcelona to New York and London to Rio de Janeiro have used the Citymart approach.</p>
 
@@ -537,7 +537,31 @@
     <p>Sascha has delivered workshops around the world, spoke at renowned smart city related events like Citylab, DLD, TEDx, The Economist Infrastructure Summit, Harvard Kennedy School’s Social Entrepreneurship Summit, Smart City Expo and lectured widely at universities such as the Architectural Association Housing & Urbanism program and IESE business school and co-authored two books on service innovation and technology in cities, markets and new approaches to public procurement and is quoted as a thought leader and entrepreneurial pioneer in publications such as Smart Cities (Anthony Townsend, 2014), Peers Inc (Robin Chase, 2015), The Economist, Time Magazine, The New York Times and various academic papers and articles.</p>
 
     <p>Sascha is an Ashoka Fellow in recognition of his work as a social innovator and a selected member of the Clinton Global Initiative and on the Advisory Board of the UN Global Compact Cities Programme. </p>
+  is_govlab: false
+  link:
+    url: 
+    twitter: 
+    linkedin: 
+    github:
+    email: 
+  tags: 
 
+
+- name:
+    last: Parry
+    first: Philippa
+    slug: philippa-parry
+  job: "Analyst at Citymart"
+  description: >
+    <p>Philippa works as an Analyst at Citymart and is currently working on introducing problem-based procurement to the governments of Long Beach and New York City, supporting challenge-based procurement strategy and delivery at all stages. Philippa also led the strategy and research on past Citymart challenges with the Government Laboratory in Chile, focused on how to the healthcare system could better meet the public’s needs, and the Bristol Social Cohesion Challenge (UK), improving social integration in a rapidly changing city.</p>
+
+    <p>Her experience and responsibilities involve a detailed understanding of each city’s needs, translated into a clear, practical and inspiring challenge statement, while understanding the needs and motivators for applicants. As an analyst, Philippa puts these two perspectives together to help ensure optimum engagement between the city’s problem and vendors’ proposals. Philippa then leads the research and outreach phases, identifying different solution types and taking charge of communicating the opportunity to vendors and the wider public.</p>
+
+    <p>Prior to Citymart Philippa worked as a freelance sustainability consultant, advising the Barcelona area local authority, AMB, on their sustainability education programme. Other projects included working with European civil society organizations, defining how systems thinking can and should change the way they organizations work and campaign.</p>
+
+    <p>A native Londoner, fluent in Spanish and Catalan, she is an experienced translator, linguistic corrector and university-level English teacher.</p>
+
+    <p>Philippa holds a Masters in Leadership in Sustainability from London-based Forum for the Future and an undergraduate degree in English Literature and Classical Literature and Civilization from the University of Birmingham, UK.</p>
   is_govlab: false
   link:
     url: 
