@@ -2,7 +2,7 @@
 # Courses
 
 - name: "Tech Innovation in Procurement"
-  duration: 5 weeks
+  duration: 10 weeks
   date:
     start: "June 13, 2016"
     week_start: "June 13, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
