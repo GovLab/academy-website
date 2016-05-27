@@ -456,7 +456,7 @@
     last: Robbins
     first: Nina
     slug: nina-robbins
-  job: Project Manager at Citymart
+  job: ""
   description: >
     <p>Nina Robbins is a Project Manager at Citymart responsible for a portfolio of partnerships with leading global cities such as New York City and Eindhoven. At Citymart, she has successfully led challenge-based procurement and problem-solving projects for the cities of Long Beach, Philadelphia and New York City. Nina further managed the co-creation of Citymart’s Opportunity Builder online tool with a group of partner cities to establish common needs, taxonomies and use-cases.</p>
 
@@ -480,7 +480,7 @@
     last: Olagoke
     first: Uthman
     slug: uthman-olagoke
-  job: Project Manager at Citymart
+  job: ""
   description: >
     <p>Uthman is an experienced project manager at Citymart, working with cities to find solutions that will elevate the quality of life for citizens and bring innovation to the inner-workings of government.</p>
 
@@ -491,6 +491,30 @@
     <p>Before joining Citymart, Uthman worked at Bennett Midland, a management consulting firm in New York City, which worked exclusively with the civic and public sectors, where he provided project management and technical assistance support to 19 city governments around the world funded by Bloomberg Philanthropies to deliver bold solutions to complex municipal challenges using the Innovation Delivery approach.</p>
 
     <p>Uthman also managed Results for America’s Local Moneyball for Government Fellowship, providing project management support to 12 senior local government officials in the United States implementing data and evidence-based tools in their cities. He graduated from Dartmouth College in 2011 with a degree in Government and Sociology.</p>
+  is_govlab: false
+  link:
+    url: 
+    twitter: 
+    linkedin: 
+    github:
+    email: 
+  tags: 
+
+- name:
+    last: Mullie
+    first: Claus
+    slug: claus-mullie
+  job: ""
+  description: >
+    <p>Claus Mullie joined Citymart in 2015, Claus contributed extensively to Citymart’s Procurement Institute, a large online resource designed to train city officials on innovative procurement. This included researching and compiling case study material.</p>
+
+    <p>Claus has also managed the research and outreach processes for the Sheffield Smart Lab challenge, focusing on housebound adult care, and the Da Nang Social Cohesion challenge, focusing on community building in public space.</p>
+
+    <p>More recently he designed and managed Tech Londoners, a Citymart partnership with The Mayor of London, which brings together London’s technology entrepreneurs and community groups to co-design the future of smart care in London.</p>
+
+    <p>Currently, Claus is working closely with the City of Eindhoven to develop the city’s problem solving methodology and new approaches to procurement for their social services department. Claus also delivers capacity building workshops to entrepreneurs as well as to city leadership to strengthen the city government’s problem-solving and innovation capacity as well as give them new ways to engage their local vendor community.</p>
+
+    <p>Before Citymart, Claus worked with the European Commission’s Smart City Unit (DG Connect) and the New Cities Foundation to help city governments spearhead innovation. He holds an MSc in Urbanisation from the London School of Economics and a BSc in Politics and International Relations from the University of Manchester.</p>
   is_govlab: false
   link:
     url: 
