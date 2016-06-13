@@ -819,6 +819,7 @@
   when: ""
   when_plus: ""
   format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+  map: true
 
 # ==========================================================================================================================================================================================================================================#
 
@@ -889,7 +890,8 @@
 #     for_certificate: true
 #   when: "TBD"
 #   when_plus: 
-#   format: 
+#   format:
+#   map: false
 
 
 

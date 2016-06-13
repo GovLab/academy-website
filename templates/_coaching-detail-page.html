@@ -168,8 +168,22 @@
     </div>
   </div>
 
+  {% if coaching_class.map %}
+  <div class="row b-content-section">
+    <div class="column large-12">
+      <h2>Participants</h2>
+    </div>
+    <div class="column large-12">
+        <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/govlab.0clkm1ml/attribution,zoompan,geocoder,share.html?access_token=pk.eyJ1IjoiZ292bGFiIiwiYSI6ImNpcGN3dmZjdTAwM2l1dG5uYTZoY3hsN24ifQ.kRsVsGBe3S42EzFd2SVQjw'></iframe>
+    </div>
+  {% endif %}
+
   <section id="contact-message" class="row b-content-section">
     <div class="column large-12">
+      {% if coaching_class.map %}
+      <br/>
+      <br/>
+      {% endif %}
       <h4>Still hungry for more information?</h4>
       <p>Send us an email at <a href="mailto:info-academy@thegovlab.org">info-academy@thegovlab.org</a></p>
     </div>
