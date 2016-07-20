@@ -729,9 +729,9 @@
   duration: 10 weeks
   apply:
   date:
-    start: "June 13, 2016"
-    week_start: "June 13, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
-    end: "August 15, 2016"
+    start: "July 14, 2016"
+    week_start: "July 14, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
+    end: "September 8, 2016"
     application: "May 27, 2016"
   passion:
     title: "Passionate about Innovations in Disaster Management?" 
