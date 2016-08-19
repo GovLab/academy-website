@@ -1,7 +1,7 @@
 ---
 # Courses
 
-- name: "Coaching Program for Data Driven Criminal Justice Projects, Part 2"
+- name: "Coaching Program for Data Driven Criminal Justice Projects Fall 2016"
   duration: 10 weeks
   date:
     start: "September 19th, 2016"
@@ -43,7 +43,7 @@
     - Stefaan Verhulst
   actions:
     - label: More Info
-      link: coaching-program-for-data-driven-criminal-justice-projects-part-2-detail.html
+      link: coaching-program-for-data-driven-criminal-justice-projects-fall-2016-detail.html
   certificates:
     blended: false
     online: true
