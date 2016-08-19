@@ -1,6 +1,63 @@
 ---
 # Courses
 
+- name: "Coaching Program for Data Driven Criminal Justice Projects, Part 2"
+  duration: 10 weeks
+  date:
+    start: "September 19th, 2016"
+    week_start: "September 19th, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
+    end: "November 14th, 2016"
+    application: "September 9th, 2016"
+  passion:
+    title: "Passionate about Data Driven Criminal Justice Innovation?"
+    bullets:
+      - Are you a state or local government official eager to deliver better services and make better policies informed by data? Are you facing challenges with how to share data ethically and responsibly between agencies or with researchers to accelerate the adoption of criminal justice innovations?
+      - Are you a researcher trying to collaborate with government around the use of data to test new approaches to reform?
+      - Are you a health or mental health organization wanting to combine data with your criminal justice counterparts to identify super-utilizers of both systems?
+      - Are you an advocacy organization that would like to open up access to its collected data for broader research?
+      - Are you working on leveraging predictive analytics and developing algorithms to target the delivery of services and interventions?
+      - Are you a policymaker looking to develop new guidance on responsible data sharing?
+  description_short: >
+    <p>The second offering of a coaching program for teams and individuals working on empirically-based criminal justice innovation projects, including those working in criminal justice, health, mental health and related agencies as well as researchers and advocates.</p>
+  description_long: >
+    <p>The Coaching Program for Data Driven Criminal Justice Projects has support from the Laura and John Arnold Foundation and is run in partnership with the White House Office of Science and Technology Policy (and its efforts to accelerate more city, county and states willing to adopt voluntary, data-driven approaches to improve public health and safety, and reduce unnecessary incarceration).</p>
+
+    <p>The program is the second iteration of a successful first-of-its-kind offering earlier in the summer that brought together 20 teams from 12 states in a fortnightly online convening format which included guest lectures by subject matter experts, one-on-one mentoring sessions and peer-to-peer interaction. The program seeks to assist teams and individuals working on empirically-based criminal justice innovation projects, including those working in criminal justice, health, mental health and related agencies as well as researchers and advocates, and who share a common desire to make greater use of data to understand past performance, improve day-to-day operations, and develop innovative approaches to the operations of the criminal justice system.</p>
+
+    <p>Perhaps you want to combine arrest data with Medicaid hospitalization data to identify the super-utilizers of both systems? Or you are stuck trying to figure out the applicable legal and privacy protections inhibiting the creation of data exchanges? Maybe you want to identify which social service alternatives to incarceration are working, when and for whom, and which are not? Have you developed a new algorithm for determining pre-trial release?</p> 
+
+    <p>This program is offered in response to what we are hearing from you about the demand for more help, expertise and capacity building to enable you to make better use of data both to understand past performance and to improve day-to-day operations of criminal justice in your communities.</p>
+
+    <p>Every other week for ten weeks, participants will come together to learn both from one another and from experts in responsible data sharing practices. Participants also receive personalized project management coaching designed to help you overcome the specific barriers to implementation you are facing.</p>
+
+    <p>The program is intended for those with a data driven criminal justice innovation project in mind. It is not a lecture course in data science but a hands-on, customized coaching and mentoring program for teams or individuals. It is designed to help you bring your project from idea to fruition. The program follows the outlines of our public problem solving method but is flexibly configured to be responsive to your specific needs.</p>
+
+    <p>With implementation as our lodestar, we will focus together on developing the essential aspects of the projects at each stage.</p>
+  more_info:
+    - If accepted, participants are asked to complete a questionnaire about their projects to aid with up-front diagnosis of challenges and the design of a customized support curriculum.
+    - Thanks to a generous grant from the Arnold Foundation, the program is free of charge to participants. However, participants are expected to commit to the duration of the program.
+    - More about the first edition of the coaching program for data driven criminal justice projects <a href="http://thegovlab.org/18326-2/">here</a>.
+
+  faculty_members: # Add list with faculty member names
+    - Beth Simone Noveck
+    - Stefaan Verhulst
+  actions:
+    - label: More Info
+      link: coaching-program-for-data-driven-criminal-justice-projects-part-2-detail.html
+  certificates:
+    blended: false
+    online: true
+    in_person: false
+    for_credit: false
+    for_certificate: true
+  readings:
+  is_active: true
+  when: "every 2 weeks for 10 weeks."
+  when_plus: ""
+  format: "1 faculty-led session every other week for 2 hours (one hour is with a guest expert and one hour is an all-group session); and a personalized schedule of peer-to-peer and one-on-one coaching sessions."
+
+# ==========================================================================================================================================================================================================================================#
+
 - name: "Tech Innovation in Procurement"
   duration: 10 weeks
   date:
