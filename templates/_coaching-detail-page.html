@@ -168,6 +168,10 @@
     </div>
   </div>
 
+  {% if coaching_class.testimonials %}
+    {% include "testimonials.html" %}
+  {% endif %}
+
   {% if coaching_class.map %}
   <div class="row b-content-section">
     <div class="column large-12">
