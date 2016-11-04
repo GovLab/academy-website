@@ -8,10 +8,10 @@
     week_start: "October 13th, 2016" # Date can be in two formats ie. "January 2015" or "By Request"
     end: "November 23rd, 2016"
     application: "September 28th, 2016"
-  passion:
-    title:
-    bullets:
-      -
+  # passion:
+  #   title:
+  #   bullets:
+  #     -
   description_short: >
     <p> Coaching program designed by Citizen Cyberlab, The GovLab , Nestlé and the Alliance4YOUTH partners, to help the participants of the “Alliance4Youth Challenge 2016” prepare to pitch their ideas of “The most attractive company in 2020”</p>
   description_long: >
